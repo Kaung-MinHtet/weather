@@ -29,7 +29,7 @@ Follow these steps to get the project up and running:
 
 ### Open new terminal
 
-    ```bash
+    
     php artisan key:generate
     php artisan serve
-    ```
+    
