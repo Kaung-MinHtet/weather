@@ -25,6 +25,8 @@ Follow these steps to get the project up and running:
    npm install && npm run dev
    ```
 
+---
+
 ### Open new terminal
 
     ```bash
